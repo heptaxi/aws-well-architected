@@ -1,6 +1,4 @@
-# aws-well-architected
-
-## AWS Well Architected
+# AWS Well Architected
 
 AWS Well Architected is a set of best practices for cloud native projects, with guidelines/whitepapers for:
 - operational excellence
