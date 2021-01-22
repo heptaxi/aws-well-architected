@@ -17,11 +17,11 @@ References:
 Keep in mind that access should only be given explicitly and that least privilege principal is core to a secure environment. This basic idea helps reduce the attack surface, and makes it easier to reason about the system.
 
 - IAM
-- automation/reproducability
+- automation/reproducibility
 - detection
 - prepare for incidents
 
-## Example Exercices
+## Example Exercises
 - RunBook
 - PlayBook
 - GameDays
