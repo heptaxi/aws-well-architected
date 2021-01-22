@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=-ObImxw1PmI
 
-# Core Pillar
+# Core Pilars
 - Identity and Access Management (IAM)
 - Data Encryption (at rest and in transit)
 - Secure Networking (VPC etc)
