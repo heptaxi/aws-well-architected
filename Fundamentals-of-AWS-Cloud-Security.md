@@ -1,6 +1,8 @@
 # Fundamentals
 
-# Core Pillars
+https://www.youtube.com/watch?v=-ObImxw1PmI
+
+# Core Pillar
 - Identity and Access Management (IAM)
 - Data Encryption (at rest and in transit)
 - Secure Networking (VPC etc)
