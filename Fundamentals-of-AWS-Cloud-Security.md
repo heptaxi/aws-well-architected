@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=-ObImxw1PmI
 
+https://www.thedevcoach.co.uk/learn-terraform-before-cloud-computing/
+
 # Core Pilars
 - Identity and Access Management (IAM)
 - Data Encryption (at rest and in transit)
